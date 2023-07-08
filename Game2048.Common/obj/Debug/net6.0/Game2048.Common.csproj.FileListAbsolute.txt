@@ -1,0 +1,12 @@
+C:\Users\korob\Source\Repos\JosefDzeranov\OnlineCourse10Stream\Game2048WinFormsApp\Game2048.Common\bin\Debug\net6.0\Game2048.Common.deps.json
+C:\Users\korob\Source\Repos\JosefDzeranov\OnlineCourse10Stream\Game2048WinFormsApp\Game2048.Common\bin\Debug\net6.0\Game2048.Common.dll
+C:\Users\korob\Source\Repos\JosefDzeranov\OnlineCourse10Stream\Game2048WinFormsApp\Game2048.Common\bin\Debug\net6.0\Game2048.Common.pdb
+C:\Users\korob\Source\Repos\JosefDzeranov\OnlineCourse10Stream\Game2048WinFormsApp\Game2048.Common\obj\Debug\net6.0\Game2048.Common.csproj.AssemblyReference.cache
+C:\Users\korob\Source\Repos\JosefDzeranov\OnlineCourse10Stream\Game2048WinFormsApp\Game2048.Common\obj\Debug\net6.0\Game2048.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korob\Source\Repos\JosefDzeranov\OnlineCourse10Stream\Game2048WinFormsApp\Game2048.Common\obj\Debug\net6.0\Game2048.Common.AssemblyInfoInputs.cache
+C:\Users\korob\Source\Repos\JosefDzeranov\OnlineCourse10Stream\Game2048WinFormsApp\Game2048.Common\obj\Debug\net6.0\Game2048.Common.AssemblyInfo.cs
+C:\Users\korob\Source\Repos\JosefDzeranov\OnlineCourse10Stream\Game2048WinFormsApp\Game2048.Common\obj\Debug\net6.0\Game2048.Common.csproj.CoreCompileInputs.cache
+C:\Users\korob\Source\Repos\JosefDzeranov\OnlineCourse10Stream\Game2048WinFormsApp\Game2048.Common\obj\Debug\net6.0\Game2048.Common.dll
+C:\Users\korob\Source\Repos\JosefDzeranov\OnlineCourse10Stream\Game2048WinFormsApp\Game2048.Common\obj\Debug\net6.0\refint\Game2048.Common.dll
+C:\Users\korob\Source\Repos\JosefDzeranov\OnlineCourse10Stream\Game2048WinFormsApp\Game2048.Common\obj\Debug\net6.0\Game2048.Common.pdb
+C:\Users\korob\Source\Repos\JosefDzeranov\OnlineCourse10Stream\Game2048WinFormsApp\Game2048.Common\obj\Debug\net6.0\ref\Game2048.Common.dll
